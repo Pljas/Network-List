@@ -1,5 +1,4 @@
 ## Main 
-***
 - [Kujira](kujira/README.md)
 - [NYM](nym/README.md)
 - [Quicksilver](quicksilver/README.md)
@@ -7,7 +6,6 @@
 - [Stride](stride/README.md)
 
 ## Test
-***
 - [Aptos](aptos/README.md)
 - [DeFund](defund/README.md)
 - [DWS](dws/README.md)
@@ -24,6 +22,5 @@
 - [Sui](sui/README.md)
 
 ## preTest
-***
 - [Autonomy](autonomy/README.md)
 - [dYmension](dYmension/README.md)
