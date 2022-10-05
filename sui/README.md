@@ -9,15 +9,12 @@ tag: Blockchain/preTestNet
 - [Website](https://mystenlabs.com/)
 - [Twitter](https://twitter.com/Mysten_Labs)
 - [Medium](https://medium.com/mysten-labs)
-</br>
-
-
+    
 *Sui* 
 - [Website](https://sui.io/)
 - [Developer Documentation](https://docs.sui.io/)
-- [Github](https://github.com/MystenLabs/sui)
-</br>
-
+- [Github](https://github.com/MystenLabs/sui) <br>
+    </br>
 - [Learning About Sui](https://docs.sui.io/devnet/learn)
 - [Sui Explorer](https://explorer.devnet.sui.io/)
 - [Sui Partners](https://sui.io/ecosystem/)

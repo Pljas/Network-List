@@ -15,16 +15,14 @@ tag: Blockchain/TestNet, Cosmos
 - Email: hello@deweb.services
 - [Explorer](https://explore.deweb.services/)
 - [Twitter](https://twitter.com/dewebservices)
-- [Github](https://github.com/deweb-services/deweb)
-</br>
-
+- [Github](https://github.com/deweb-services/deweb) <br>
+    </br>
 - [Documentation](https://docs.deweb.services/)
 - [Running Full node](https://docs.deweb.services/fullnode/overview)
 - [Decentralized Domains](https://docs.deweb.services/domains/dws-domains/)
 - [Keplr Wallet](https://deweb.services/add-wallet)
-- [API](https://dws.api.bccnodes.com/)
-</br>
-
+- [API](https://dws.api.bccnodes.com/) <br>
+    </br>
 - [Snapshot or State Sync](https://nodejumper.io/dws-testnet/sync)
 
 ***
