@@ -21,7 +21,7 @@ tag: Blockchain/TestNet, Cosmos
 - [Running Full node](https://docs.deweb.services/fullnode/overview)
 - [Decentralized Domains](https://docs.deweb.services/domains/dws-domains/)
 - [Keplr Wallet](https://deweb.services/add-wallet)
-- [API](https://dws.api.bccnodes.com/) 
+- [API](https://dws.api.bccnodes.com/) <br>
     <br>
 - [Snapshot or State Sync](https://nodejumper.io/dws-testnet/sync)
 
