@@ -11,6 +11,7 @@ tag: Blockchain/TestNet, Cosmos
 - [Instagram](https://www.instagram.com/teamkujira/)
 - [Medium](https://medium.com/team-kujira) 
 </br>
+
 - [Next gen decentralized exchange dApp FIN](https://fin.kujira.app/)
 - [Trustless fee saving token distribution dApp BELUGA](https://beluga.kujira.app/)
 - [Cross-chain Liquidation dApp ORCA](https://orca.kujira.app/)
