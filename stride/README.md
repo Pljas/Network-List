@@ -1,6 +1,6 @@
 ---
 name: Stride
-tag: Blockchain/TestNet, Cosmos
+tag: Blockchain/MainNet, Cosmos
 ---
 
 **General links:** 

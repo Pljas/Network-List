@@ -7,6 +7,7 @@
 
 ## Test
 - [Aptos](aptos/README.md)
+- [Crowd Control](crowd-control/README.md)
 - [DeFund](defund/README.md)
 - [DWS](dws/README.md)
 - [HAQQ](haqq/README.md)
