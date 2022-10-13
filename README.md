@@ -10,6 +10,7 @@
 - [Crowd Control](crowd-control/README.md)
 - [DeFund](defund/README.md)
 - [DWS](dws/README.md)
+- [Gitopia](./gitopia/README.md)
 - [HAQQ](haqq/README.md)
 - [Massa](massa/README.md)
 - [Minima](minima/README.md)
@@ -23,6 +24,7 @@
 - [Sui](sui/README.md)
 
 ## preTest
+- [Andromeda](./andromeda/README.md)
 - [Autonomy](autonomy/README.md)
 - [dYmension](dYmension/README.md)
 - [Elsechain](elsechain/README.md)
