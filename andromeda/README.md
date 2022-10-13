@@ -1,5 +1,5 @@
 ---
-name: Crowd Control
+name: Andromeda
 tag: Blockchain/TestNet
 ---
 

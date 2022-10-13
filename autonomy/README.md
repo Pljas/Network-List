@@ -1,5 +1,5 @@
 ---
-name: autonomy
+name: Autonomy
 tag: Blockchain/preTestNet, Cosmos
 ---
 
