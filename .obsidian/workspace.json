@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "mande/README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "mande/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "mande/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "mande/README.md"
               }
             }
           }
@@ -139,10 +139,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c58050693ada5241",
+  "active": "5b19c5fd5b95e6a8",
   "lastOpenFiles": [
-    "elsechain/README.md",
     "README.md",
+    "elsechain/README.md",
     "dYmension/README.md",
     "andromeda/README.md",
     "autonomy/README.md",

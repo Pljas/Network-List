@@ -12,7 +12,7 @@
 - [DWS](dws/README.md)
 - [Gitopia](./gitopia/README.md)
 - [HAQQ](haqq/README.md)
-- [Mande](./mande/README.md)
+- [Mande](Network%20List/mande/README.md)
 - [Massa](massa/README.md)
 - [Minima](minima/README.md)
 - [Newrl](newrl/README.md)
