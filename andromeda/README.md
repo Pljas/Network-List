@@ -1,6 +1,6 @@
 ---
 name: Andromeda
-tag: Blockchain/TestNet
+tag: Blockchain/preTestNet
 ---
 
 **General links:** 

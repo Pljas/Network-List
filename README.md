@@ -12,6 +12,7 @@
 - [DWS](dws/README.md)
 - [Gitopia](./gitopia/README.md)
 - [HAQQ](haqq/README.md)
+- [Mande](./mande/README.md)
 - [Massa](massa/README.md)
 - [Minima](minima/README.md)
 - [Newrl](newrl/README.md)
@@ -28,4 +29,3 @@
 - [Autonomy](autonomy/README.md)
 - [dYmension](dYmension/README.md)
 - [Elsechain](elsechain/README.md)
-- [Mande]()

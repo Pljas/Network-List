@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mande/README.md.md",
-                "mode": "source",
+                "file": "elsechain/README.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Blockchain/TestNet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mande/README.md.md",
+                "file": "elsechain/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mande/README.md.md",
+                "file": "elsechain/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mande/README.md.md"
+                "file": "elsechain/README.md"
               }
             }
           }
@@ -154,15 +155,15 @@
   },
   "active": "cdbd96ee935cfce2",
   "lastOpenFiles": [
-    "dYmension/README.md",
-    "mande/README.md.md",
     "README.md",
+    "dYmension/README.md",
+    "andromeda/README.md",
+    "autonomy/README.md",
     "sui/README.md",
     "subspace/README.md",
-    "stride/README.md",
-    "starknet/README.md",
     "ssv/README.md",
     "sei/README.md",
-    "quicksilver/README.md"
+    "obol/README.md",
+    "nois/README.md"
   ]
 }

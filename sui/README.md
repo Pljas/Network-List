@@ -1,6 +1,6 @@
 ---
 name: Sui
-tag: Blockchain/preTestNet
+tag: Blockchain/TestNet
 ---
 
 **General links:** 

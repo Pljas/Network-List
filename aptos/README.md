@@ -1,6 +1,6 @@
 ---
 name: Aptos
-tag: Blockchain/preTestNet
+tag: Blockchain/TestNet
 ---
 
 **General links:** 
