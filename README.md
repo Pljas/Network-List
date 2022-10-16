@@ -18,7 +18,7 @@
 - [Newrl](newrl/README.md)
 - [Nois](nois/README.md)
 - [Obol](obol/README.md)
-- [0KP4]
+- [0KP4](0kp4/README.md)
 - [Ollo](ollo/README.md)
 - [Sei](sei/README.md)
 - [SSV Network](ssv/README.md) 
