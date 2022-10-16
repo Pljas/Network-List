@@ -6,6 +6,7 @@
 - [Stride](stride/README.md)
 
 ## Test
+- [0KP4](0kp4/README.md)
 - [Aptos](aptos/README.md)
 - [Crowd Control](crowd-control/README.md)
 - [DeFund](defund/README.md)
@@ -18,7 +19,6 @@
 - [Newrl](newrl/README.md)
 - [Nois](nois/README.md)
 - [Obol](obol/README.md)
-- [0KP4](0kp4/README.md)
 - [Ollo](ollo/README.md)
 - [Sei](sei/README.md)
 - [SSV Network](ssv/README.md) 
