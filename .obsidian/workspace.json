@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mande/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mande/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mande/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mande/README.md"
+                "file": "README.md"
               }
             }
           }
@@ -141,6 +141,7 @@
   },
   "active": "5b19c5fd5b95e6a8",
   "lastOpenFiles": [
+    "mande/README.md",
     "README.md",
     "elsechain/README.md",
     "dYmension/README.md",
@@ -149,7 +150,6 @@
     "sui/README.md",
     "subspace/README.md",
     "ssv/README.md",
-    "sei/README.md",
-    "obol/README.md"
+    "sei/README.md"
   ]
 }
