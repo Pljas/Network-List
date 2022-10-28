@@ -11,4 +11,6 @@ tag: Blockchain/MainNet, Rebus
 - [Medium](https://medium.com/@RebusChain)
 - [Telegram](https://t.me/RebusChain)
 - [Telegram announcement](https://t.me/RebusAnnouncement)
-- Discord - [https://discord.gg/rebuschain](https://discord.gg/rebuschain "https://discord.gg/rebuschain") Instagram - [https://www.instagram.com/rebuschain](https://www.instagram.com/rebuschain "https://www.instagram.com/rebuschain") Facebook - [https://www.facebook.com/rebuschain](https://www.facebook.com/rebuschain "https://www.facebook.com/rebuschain")
+- [Discord](https://discord.gg/rebuschain)
+- [Instagram](https://www.instagram.com/rebuschain)
+- [Facebook](https://www.facebook.com/rebuschain)

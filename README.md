@@ -2,6 +2,7 @@
 - [Kujira](kujira/README.md)
 - [NYM](nym/README.md)
 - [Quicksilver](quicksilver/README.md)
+- [Rebus](rebus/README.md)
 - [StarkNet](starknet/README.md)
 - [Stride](stride/README.md)
 
