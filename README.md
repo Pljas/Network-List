@@ -1,5 +1,7 @@
 ## Main 
+- [Aptos](aptos/README.md)
 - [Kujira](kujira/README.md)
+- [Newrl](newrl/README.md)
 - [NYM](nym/README.md)
 - [Quicksilver](quicksilver/README.md)
 - [Rebus](rebus/README.md)
@@ -8,7 +10,6 @@
 
 ## Test
 - [0KP4](0kp4/README.md)
-- [Aptos](aptos/README.md)
 - [Crowd Control](crowd-control/README.md)
 - [DeFund](defund/README.md)
 - [DWS](dws/README.md)
@@ -17,7 +18,7 @@
 - [Mande](mande/README.md)
 - [Massa](massa/README.md)
 - [Minima](minima/README.md)
-- [Newrl](newrl/README.md)
+- [Nibiru](nibiru/README.md)
 - [Nois](nois/README.md)
 - [Obol](obol/README.md)
 - [Ollo](ollo/README.md)
