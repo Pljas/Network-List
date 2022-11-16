@@ -2,7 +2,7 @@
 name: Exorde
 eco: -
 status: TestNet
-tag: -
+tag: Module
 ---
 
 **General links:** 
