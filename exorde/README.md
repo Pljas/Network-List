@@ -1,8 +1,8 @@
 ---
-name: Exorde
-eco: -
-status: TestNet
-tag:
+name: Exo
+eco: Cosmos
+status: preTestNet
+tag: Network
 ---
 
 **General links:** 
