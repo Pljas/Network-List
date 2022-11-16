@@ -33,5 +33,5 @@ WHERE status = "TestNet" AND run = false
 ### preTest
 ```dataview
 List name
-WHERE status = "preTestNet" AND run = false
+WHERE status = "preTestNet"
 ```
