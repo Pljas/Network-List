@@ -1,6 +1,8 @@
 ---
 name: dYmension
-tag: Blockchain/preTestNet, Cosmos
+eco: Cosmos
+status: TestNet
+tag: Network
 ---
 
 **General links:** 
