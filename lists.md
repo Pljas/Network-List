@@ -1,42 +1,44 @@
-##RUN
+## RUN
 ### Main 
 ```dataview
 List name
-WHERE status = "MainNet" and run = "true"
+WHERE status = "MainNet" AND run = true
 ```
 
 
 ### Test
 ```dataview
 List name
-WHERE status = "TestNet" and run = "true"
+WHERE status = "TestNet" AND run = true
 ```
 
 
 ### preTest
 ```dataview
 List name
-WHERE status = "preTestNet" and run = "true"
+WHERE status = "preTestNet" AND run = false
 ```
 
 
-##WATCHING 
+
+
+## WATCHING 
 ### Main 
 ```dataview
 List name
-WHERE status = "MainNet" and run = "true"
+WHERE status = "MainNet" AND run = false
 ```
 
 
 ### Test
 ```dataview
 List name
-WHERE status = "TestNet" and run = "true"
+WHERE status = "TestNet" AND run = false
 ```
 
 
 ### preTest
 ```dataview
 List name
-WHERE status = "preTestNet" and run = "true"
+WHERE status = "preTestNet" AND run = false
 ```
