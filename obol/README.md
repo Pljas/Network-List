@@ -1,6 +1,8 @@
 ---
 name: Obol
-tag: Blockchain/TestNet, Ethereum
+eco: Ethereum
+status: TestNet
+tag: Network
 ---
 
 **General links:** 

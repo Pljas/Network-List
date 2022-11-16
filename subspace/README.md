@@ -1,6 +1,8 @@
 ---
 name: Subspace
-tag: Blockchain/TestNet, Substrate
+eco: Substrate
+status: TestNet
+tag: Network
 ---
 
 **General links:** 

@@ -1,6 +1,8 @@
 ---
 name: Rebus
-tag: Blockchain/MainNet, Cosmos
+eco: Cosmos
+status: MainNet
+tag: Network
 ---
 
 **General links:** 

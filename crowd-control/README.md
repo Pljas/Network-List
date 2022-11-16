@@ -1,6 +1,8 @@
 ---
 name: Crowd Control
-tag: Blockchain/TestNet, Cosmos
+eco: Cosmos
+status: TestNet
+tag: Network
 ---
 
 **General links:** 

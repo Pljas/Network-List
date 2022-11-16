@@ -1,6 +1,8 @@
 ---
 name: StarkNet
-tag: Blockchain/MainNet, Ethereum
+eco: L2
+status: MainNet
+tag: Network 
 ---
 
 **General links:** 

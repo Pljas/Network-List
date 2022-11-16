@@ -1,6 +1,8 @@
 ---
 name: Nois
-tag: Blockchain/TestNet
+eco: Cosmos
+status: TestNet
+tag: Network
 ---
 
 **General links:** 

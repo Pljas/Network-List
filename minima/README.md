@@ -1,6 +1,8 @@
 ---
 name: Minima
-tag: Blockchain/TestNet
+eco: -
+status: TestNet
+tag: Network
 ---
 
 **General links:** 

@@ -1,6 +1,8 @@
 ---
 name: Newrl
-tag: Blockchain/TestNet
+eco: -
+status: MainNet
+tag: Network
 ---
 
 **General links:** 

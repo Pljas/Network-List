@@ -1,6 +1,8 @@
 ---
 name: Ollo
-tag: Blockchain/TestNet, Cosmos
+eco: Cosmos
+status: TestNet
+tag: Network
 ---
 
 **General links:** 

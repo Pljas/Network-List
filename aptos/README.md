@@ -1,6 +1,8 @@
 ---
 name: Aptos
-tag: Blockchain/TestNet
+eco: Aptos
+status: MainNet
+tag: Network
 ---
 
 **General links:** 

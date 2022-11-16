@@ -1,6 +1,8 @@
 ---
 name: Massa
-tag: Blockchain/TestNet
+eco: Massa
+status: TestNet
+tag: Network
 ---
 
 **General links:** 

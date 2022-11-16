@@ -1,6 +1,8 @@
 ---
 name: Andromeda
-tag: Blockchain/preTestNet
+eco: Cosmos
+status: preTestNet
+tag: Network
 ---
 
 **General links:** 

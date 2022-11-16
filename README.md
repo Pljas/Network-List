@@ -13,6 +13,8 @@
 - [Crowd Control](crowd-control/README.md)
 - [DeFund](defund/README.md)
 - [DWS](dws/README.md)
+- [dYmension](dYmension/README.md)
+- [Exorde](exorde/README.md)
 - [Gitopia](gitopia/README.md)
 - [HAQQ](haqq/README.md)
 - [Mande](mande/README.md)
@@ -30,5 +32,4 @@
 ## preTest
 - [Andromeda](andromeda/README.md)
 - [Autonomy](autonomy/README.md)
-- [dYmension](dYmension/README.md)
 - [Elsechain](elsechain/README.md)

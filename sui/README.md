@@ -1,6 +1,8 @@
 ---
-name: Sui
-tag: Blockchain/TestNet
+name: SUI
+eco: SUI
+status: TestNet
+tag: Network
 ---
 
 **General links:** 

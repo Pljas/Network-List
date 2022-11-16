@@ -1,6 +1,8 @@
 ---
 name: Autonomy
-tag: Blockchain/preTestNet, Cosmos
+eco: Cosmos
+status: preTestNet
+tag: Network
 ---
 
 **General links:** 
