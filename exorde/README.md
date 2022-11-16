@@ -1,7 +1,7 @@
 ---
 name: Exorde
 eco: -
-status: preTestNet
+status: TestNet
 tag: -
 ---
 
