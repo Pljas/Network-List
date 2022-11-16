@@ -2,6 +2,7 @@
 name: Obol
 eco: Ethereum
 status: TestNet
+run:  false
 tag: Network
 ---
 

@@ -2,6 +2,7 @@
 name: Gitopia
 eco: Cosmos
 status: TestNet
+run:  false
 tag: Network
 ---
 

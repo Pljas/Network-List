@@ -2,6 +2,7 @@
 name: Rebus
 eco: Cosmos
 status: MainNet
+run:  true
 tag: Network
 ---
 

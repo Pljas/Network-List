@@ -2,6 +2,7 @@
 name: NYM
 eco: Cosmos
 status: MainNet
+run:  true
 tag: Network 
 ---
 

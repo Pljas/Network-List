@@ -2,6 +2,7 @@
 name: Sei
 eco: Cosmos
 status: TestNet
+run:  false
 tag: Network
 ---
 

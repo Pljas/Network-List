@@ -2,6 +2,7 @@
 name: Stride
 eco: Cosmos
 status: MainNet
+run:  false
 tag: Network 
 ---
 

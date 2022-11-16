@@ -2,6 +2,7 @@
 name: Newrl
 eco: -
 status: MainNet
+run:  true
 tag: Network
 ---
 

@@ -2,6 +2,7 @@
 name: Kujira
 eco: Cosmos
 status: MainNet
+run:  false
 tag: Network
 ---
 

@@ -2,6 +2,7 @@
 name: Elsechain
 eco: Cosmos
 status: preTestNet
+run:  false
 tag: Network
 ---
 

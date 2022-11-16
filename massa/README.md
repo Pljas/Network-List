@@ -2,6 +2,7 @@
 name: Massa
 eco: Massa
 status: TestNet
+run:  true
 tag: Network
 ---
 

@@ -2,6 +2,7 @@
 name: Exorde
 eco: -
 status: TestNet
+run:  true
 tag: Module
 ---
 

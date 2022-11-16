@@ -2,6 +2,7 @@
 name: SSV
 eco: Ethereum
 status: TestNet
+run:  true
 tag: Network
 ---
 

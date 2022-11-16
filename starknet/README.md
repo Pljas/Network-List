@@ -2,6 +2,7 @@
 name: StarkNet
 eco: L2
 status: MainNet
+run:  false
 tag: Network 
 ---
 

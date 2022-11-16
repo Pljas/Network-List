@@ -2,6 +2,7 @@
 name: Nois
 eco: Cosmos
 status: TestNet
+run:  false
 tag: Network
 ---
 

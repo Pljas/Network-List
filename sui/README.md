@@ -2,6 +2,7 @@
 name: SUI
 eco: SUI
 status: TestNet
+run:  false
 tag: Network
 ---
 

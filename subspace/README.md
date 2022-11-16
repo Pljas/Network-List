@@ -2,6 +2,7 @@
 name: Subspace
 eco: Substrate
 status: TestNet
+run:  true
 tag: Network
 ---
 

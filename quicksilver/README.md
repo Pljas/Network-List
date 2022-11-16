@@ -2,6 +2,7 @@
 name: Quicksilver
 eco: Cosmos
 status: MainNet
+run:  false
 tag: Network 
 ---
 

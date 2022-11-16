@@ -2,6 +2,7 @@
 name: HAQQ
 eco: Cosmos
 status: TestNet
+run:  true
 tag: Network
 ---
 

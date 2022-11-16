@@ -2,6 +2,7 @@
 name: Ollo
 eco: Cosmos
 status: TestNet
+run:  false
 tag: Network
 ---
 

@@ -2,6 +2,7 @@
 name: Minima
 eco: -
 status: TestNet
+run:  true
 tag: Network
 ---
 

@@ -2,6 +2,7 @@
 name: Nibiru
 eco: Cosmos
 status: TestNet
+run:  true
 tag: Network
 ---
 
