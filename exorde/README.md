@@ -1,5 +1,5 @@
 ---
-name: Eexorde
+name: Exorde
 eco: -
 status: TestNet
 tag: Module
