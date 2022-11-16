@@ -13,13 +13,6 @@ WHERE status = "TestNet" AND run = true
 ```
 
 
-### preTest
-```dataview
-List name
-WHERE status = "preTestNet" AND run = false
-```
-
-
 
 
 ## WATCHING 

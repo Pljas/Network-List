@@ -1,5 +1,5 @@
 ---
-name: Mande
+name: OKP4
 eco: Cosmos
 status: TestNet
 run:  true
