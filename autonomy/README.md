@@ -2,6 +2,7 @@
 name: Autonomy
 eco: Cosmos
 status: preTestNet
+run:  false
 tag: Network
 ---
 

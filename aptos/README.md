@@ -2,6 +2,7 @@
 name: Aptos
 eco: Aptos
 status: MainNet
+run:  false
 tag: Network
 ---
 

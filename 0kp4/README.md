@@ -2,6 +2,7 @@
 name: Mande
 eco: Cosmos
 status: TestNet
+run:  true
 tag: Network
 ---
 

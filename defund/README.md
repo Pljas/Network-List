@@ -2,6 +2,7 @@
 name: DeFund
 eco: Cosmos
 status: TestNet
+run:  true
 tag: Network
 ---
 

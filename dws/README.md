@@ -2,6 +2,7 @@
 name: DWS
 eco: Cosmos
 status: TestNet
+run:  true
 tag: Network
 ---
 

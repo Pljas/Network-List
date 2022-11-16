@@ -1,13 +1,13 @@
 ## Main 
 ```dataview
-Table name
+List name
 WHERE status = "MainNet"
 ```
 
 
 ## Test
 ```dataview
-Table name
+List name
 WHERE status = "TestNet"
 ```
 

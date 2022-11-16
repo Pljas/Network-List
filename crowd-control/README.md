@@ -2,6 +2,7 @@
 name: Crowd Control
 eco: Cosmos
 status: TestNet
+run:  false
 tag: Network
 ---
 

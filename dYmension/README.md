@@ -1,7 +1,7 @@
 ---
 name: dYmension
 eco: Cosmos
-status: TestNet
+status: false
 tag: Network
 ---
 
